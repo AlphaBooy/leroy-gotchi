@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="57dbd182-741e-4d05-89dd-4061111d1a55" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/leroy-gotchi/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leroy-gotchi/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leroy-gotchi/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leroy-gotchi/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leroy-gotchi/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leroy-gotchi/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leroy-gotchi/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leroy-gotchi/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leroy-gotchi/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leroy-gotchi/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leroy-gotchi/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leroy-gotchi/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EditorConfigPreviewManager">
+    <editorConfig file="$PROJECT_DIR$/leroy-gotchi/.editorconfig" previewFile="$PROJECT_DIR$/leroy-gotchi/src/app/app.component.html" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1l9hVCpzdgnY8sgPPfADuMAdUIV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/leroy-gotchi" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="E:\DEV\leroy-gotchi\leroy-gotchi\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\DEV\leroy-gotchi\leroy-gotchi" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\DEV\leroy-gotchi\leroy-gotchi" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57dbd182-741e-4d05-89dd-4061111d1a55" name="Default Changelist" comment="" />
+      <created>1607015235527</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607015235527</updated>
+      <workItem from="1607015237364" duration="9403000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="780" y="344" key="SettingsEditor" timestamp="1607027579496">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="780" y="344" key="SettingsEditor/0.0.2560.1400/2560.353.1920.1040@0.0.2560.1400" timestamp="1607027579496" />
+  </component>
+</project>

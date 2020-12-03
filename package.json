@@ -1,0 +1,22 @@
+{
+  "name": "leroy-gotchi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlphaBooy/leroy-gotchi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlphaBooy/leroy-gotchi/issues"
+  },
+  "homepage": "https://github.com/AlphaBooy/leroy-gotchi#readme",
+  "dependencies": {
+    "angular": "^1.8.2"
+  }
+}
