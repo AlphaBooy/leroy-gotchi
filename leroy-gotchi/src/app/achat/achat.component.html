@@ -1,34 +1,60 @@
 <h1>Composez votre panier</h1>
-
-<table class="table">
-    <tr>
-        <td>
-            <img src="../assets/images/Perforateur.png"/>
-            Perforateur
-        </td>
-        <td>
-            <img src="../assets/images/Tournevis.png"/>
-            Tournevis
-        </td>
-        <td>
-            <img src="../assets/images/Vis.png"/>
-            Vis
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="../assets/images/Perceuse.png"/>
-            Perceuse
-        </td>
-        <td>
-            <img src="../assets/images/Cutter.png"/>
-            Cutter
-        </td>
-        <td>
-            <img src="../assets/images/Chevilles.png"/>
-            Chevilles
-        </td>
-    </tr>
-</table>
-
-<button class="btn btn-block btn-outline-primary">Valider</button>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-8">
+            <table class="table">
+                <tr>
+                    <td (click)="addList('Perforateur')">
+                        <img src="../assets/images/Perforateur.png" class="imageCatalogue" alt="Perforateur"/>
+                        <br/>
+                        Perforateur
+                    </td>
+                    <td (click)="addList('Tournevis')">
+                        <img src="../assets/images/Tournevis.png" class="imageCatalogue" alt="Tournevis"/>
+                        <br/>
+                        Tournevis
+                    </td>
+                    <td (click)="addList('Vis')">
+                        <img src="../assets/images/Vis.png" class="imageCatalogue" alt="Vis"/>
+                        <br/>
+                        Vis
+                    </td>
+                </tr>
+                <tr>
+                    <td (click)="addList('Perceuse')">
+                        <img src="../assets/images/Perceuse.png" class="imageCatalogue" alt="Perceuse"/>
+                        <br/>
+                        Perceuse
+                    </td>
+                    <td (click)="addList('Cutter')">
+                        <img src="../assets/images/Cutter.png" class="imageCatalogue" alt="Cutter"/>
+                        <br/>
+                        Cutter
+                    </td>
+                    <td (click)="addList('Chevilles')">
+                        <img src="../assets/images/Cheville.png" class="imageCatalogue" alt="Chevilles"/>
+                        <br/>
+                        Chevilles
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="col-4">
+            <table>
+                <thead>
+                    <tr>
+                        <td>Index</td>
+                        <td>Item</td>
+                    </tr>
+                </thead>
+                <tbody *ngIf="listItem.length > 0">
+                    <tr *ngFor="let item of listItem; let i = index">
+                        <td>{{i+1}}</td>
+                        <td>{{item}}</td>
+                    </tr>
+                </tbody>
+            </table>
+            <button class="btn btn-block btn-outline-primary">Valider</button>
+        </div>
+    </div>
+</div>
