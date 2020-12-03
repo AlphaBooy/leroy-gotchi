@@ -9,12 +9,16 @@ import { MatStepperModule } from '@angular/material/stepper';
 import { ReactiveFormsModule } from "@angular/forms";
 import { AchatComponent } from './achat/achat.component';
 import {NgbAlertModule, NgbModule, NgbPaginationModule} from '@ng-bootstrap/ng-bootstrap';
+import { LivraisonComponent } from './livraison/livraison.component';
+import { RecapComponent } from './recap/recap.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     GoutteComponent,
-    AchatComponent
+    AchatComponent,
+    LivraisonComponent,
+    RecapComponent
   ],
     imports: [
         BrowserModule,
