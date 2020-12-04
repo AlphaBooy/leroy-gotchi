@@ -11,6 +11,7 @@ import { AchatComponent } from './achat/achat.component';
 import {NgbAlertModule, NgbModule, NgbPaginationModule} from '@ng-bootstrap/ng-bootstrap';
 import { LivraisonComponent } from './livraison/livraison.component';
 import { RecapComponent } from './recap/recap.component';
+import { HeaderComponent } from './header/header.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { RecapComponent } from './recap/recap.component';
     GoutteComponent,
     AchatComponent,
     LivraisonComponent,
-    RecapComponent
+    RecapComponent,
+    HeaderComponent
   ],
     imports: [
         BrowserModule,

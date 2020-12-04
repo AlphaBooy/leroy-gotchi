@@ -10,3 +10,12 @@ td {
 .imageCatalogue {
     width: 200px;
 }
+
+.recapItems {
+    height: 50px;
+}
+
+.headerRecap {
+    height: 75px;
+    background-color: #005cbf;
+}

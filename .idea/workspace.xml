@@ -10,13 +10,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57dbd182-741e-4d05-89dd-4061111d1a55" name="Default Changelist" comment="Initial commit">
+    <list default="true" id="57dbd182-741e-4d05-89dd-4061111d1a55" name="Default Changelist" comment="Page achat">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leroy-gotchi/src/app/achat/achat.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/leroy-gotchi/src/app/achat/achat.component.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leroy-gotchi/src/app/achat/achat.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/leroy-gotchi/src/app/achat/achat.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leroy-gotchi/src/app/achat/achat.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/leroy-gotchi/src/app/achat/achat.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leroy-gotchi/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/leroy-gotchi/src/app/app.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leroy-gotchi/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/leroy-gotchi/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leroy-gotchi/src/app/goutte/goutte.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/leroy-gotchi/src/app/goutte/goutte.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leroy-gotchi/src/app/goutte/goutte.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/leroy-gotchi/src/app/goutte/goutte.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leroy-gotchi/src/app/livraison/livraison.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/leroy-gotchi/src/app/livraison/livraison.component.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +29,11 @@
     <editorConfig file="$PROJECT_DIR$/leroy-gotchi/.editorconfig" previewFile="$PROJECT_DIR$/leroy-gotchi/src/app/app.component.html" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Clement &lt;cl3m48@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1l9hVCpzdgnY8sgPPfADuMAdUIV" />
@@ -60,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607015235527</updated>
       <workItem from="1607015237364" duration="9403000" />
-      <workItem from="1607027608036" duration="9188000" />
+      <workItem from="1607027608036" duration="20737000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1607028055374</created>
@@ -69,7 +76,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607028055374</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Page achat">
+      <created>1607038385133</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607038385133</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Page achat">
+      <created>1607038532198</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607038532198</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,16 +110,25 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Page achat" />
+    <option name="LAST_COMMIT_MESSAGE" value="Page achat" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1113" y="319" key="RollbackChangesDialog" timestamp="1607045595759">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1113" y="319" key="RollbackChangesDialog/0.0.2560.1400/2560.353.1920.1040@0.0.2560.1400" timestamp="1607045595759" />
     <state x="780" y="344" key="SettingsEditor" timestamp="1607027579496">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="780" y="344" key="SettingsEditor/0.0.2560.1400/2560.353.1920.1040@0.0.2560.1400" timestamp="1607027579496" />
-    <state x="871" y="430" key="Vcs.Push.Dialog.v2" timestamp="1607028057698">
+    <state width="498" height="446" key="SwitcherDM" timestamp="1607048836153">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="871" y="430" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.353.1920.1040@0.0.2560.1400" timestamp="1607028057698" />
+    <state width="498" height="446" key="SwitcherDM/0.0.2560.1400/2560.353.1920.1040@0.0.2560.1400" timestamp="1607048836153" />
+    <state x="871" y="430" key="Vcs.Push.Dialog.v2" timestamp="1607038387147">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="871" y="430" key="Vcs.Push.Dialog.v2/0.0.2560.1400/2560.353.1920.1040@0.0.2560.1400" timestamp="1607038387147" />
   </component>
 </project>

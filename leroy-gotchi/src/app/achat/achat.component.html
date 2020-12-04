@@ -40,21 +40,22 @@
             </table>
         </div>
         <div class="col-4">
-            <table>
+            <table class="table table-striped">
                 <thead>
-                    <tr>
+                    <tr class="headerRecap">
                         <td>Index</td>
                         <td>Item</td>
+                        <td>Quantité</td>
                     </tr>
                 </thead>
-                <tbody *ngIf="listItem.length > 0">
-                    <tr *ngFor="let item of listItem; let i = index">
+                <tbody>
+                    <tr *ngFor="let item of listItem; let i = index" class="recapItems">
                         <td>{{i+1}}</td>
                         <td>{{item}}</td>
+                        <td>1</td>
                     </tr>
                 </tbody>
             </table>
-            <button class="btn btn-block btn-outline-primary">Valider</button>
         </div>
     </div>
 </div>
